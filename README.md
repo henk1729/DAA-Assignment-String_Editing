@@ -14,4 +14,9 @@ The algorithm works on following principles:
 
 ### Complexity
 Time complexity: `O(m*n)`\
-Space complexity: `O(m*n)`
+Space complexity: `O(m*n)`\
+
+### Outputs
+![image](https://user-images.githubusercontent.com/80308332/203860417-67705a6b-086d-483e-9640-f53702577505.png)\
+![image](https://user-images.githubusercontent.com/80308332/203860514-4e887725-9605-43f3-8a43-94ee705768af.png)\
+![image](https://user-images.githubusercontent.com/80308332/203860600-76704122-c10c-4a13-a1f5-d65f996b1997.png)
